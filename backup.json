@@ -92,10 +92,10 @@
       "id": 1738394949049,
       "image": "https://arzounkade.ir/wp-content/uploads/2023/04/bde7ad25af5af19891f275ca0e840d865c191cac_1644673988-300x300.jpg",
       "name": "چسب 123",
-      "price": 49900,
+      "price": 59000,
       "category": "original_brand",
       "order": 8,
-      "totalPrice": 299400,
+      "totalPrice": 354000,
       "minQuantity": 6,
       "quantity": 0
     },
@@ -345,11 +345,11 @@
       "id": 1738399794159,
       "image": "https://arzounkade.ir/wp-content/uploads/2025/11/Screenshot_2024-08-09-19-30-27-539_ir.palapalco.bivisitor.distributor-edit.jpg",
       "name": "جرمگیر سماور و کتری سیمی",
-      "price": 13800,
+      "price": 15000,
       "category": "home_kitchen",
       "order": 31,
       "quantity": 0,
-      "totalPrice": 276000,
+      "totalPrice": 300000,
       "minQuantity": 20
     },
     {
@@ -686,11 +686,11 @@
       "id": 1739292248382,
       "image": "https://arzounkade.ir/wp-content/uploads/2023/11/InShot_20231013_145054344-scaled-800x800.webp",
       "name": "آستون",
-      "price": 8900,
+      "price": 10900,
       "category": "health_hygiene",
       "order": 62,
       "quantity": 0,
-      "totalPrice": 106800,
+      "totalPrice": 130800,
       "minQuantity": 12
     },
     {
@@ -818,11 +818,11 @@
       "id": 1739292775944,
       "image": "https://arzounkade.ir/wp-content/uploads/2023/11/InShot_20231014_125751657-scaled.webp",
       "name": "بوگیر کنسروی -جور",
-      "price": 22000,
+      "price": 24000,
       "category": "detergents_disinfectants",
       "order": 74,
       "quantity": 0,
-      "totalPrice": 132000,
+      "totalPrice": 144000,
       "minQuantity": 6
     },
     {
@@ -1441,5 +1441,5 @@
       "order": 130
     }
   ],
-  "backupDate": "2025-11-03T03:44:20.541Z"
+  "backupDate": "2025-11-02T17:47:18.678Z"
 }
